@@ -1,0 +1,26 @@
+.firstHalf {
+    display: flex;
+}
+.right {
+    display: flex;
+    flex-direction: column;
+    border: 5px solid black;
+}
+.recImg {
+    width: 12rem;
+    padding: 0px;
+    border: 2px solid black;
+}
+.vidButton {
+    padding: 0.5rem 2rem;
+    margin-left: 45%;
+}
+
+
+
+
+
+    
+    
+    
+    

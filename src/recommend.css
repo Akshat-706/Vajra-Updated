@@ -1,0 +1,75 @@
+.topPage {
+    height: 95vh;
+    background: url(./images/doctor.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.formInput {
+    width: 21rem;
+    height: 2rem;
+    border-radius: 5px;
+    border: none;
+}
+
+.form {
+    padding: 1rem;
+    position: relative;
+    top: 18rem;
+    margin: 0 2rem;
+    background-color: skyblue;
+    border-radius: 5px;
+}
+.subForm {
+    margin: 0.3rem;
+}
+.row1,
+.row2 {
+    display: flex;
+    margin: 1rem;
+}
+.lastRow {
+    margin: 0 1rem;
+}
+.formBtn {
+    margin-left: 1rem;
+    margin-top: 1rem;
+    border-radius: 5px;
+    padding: 0.5rem 1rem;
+    color: white;
+    background-color: #0d6efd;
+    border: none;
+}
+.bottomPageHeading {
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.bottomCardRow {
+    display: flex;
+}
+.recommendButton {
+    border-radius: 5px;
+    margin-top: 25px;
+    border: none;
+    outline: 0;
+    display: inline-block;
+    padding: 8px;
+    color: white;
+    background-color: #0d6efd;
+    text-align: center;
+    cursor: pointer;
+    width: 65%;
+    font-size: 18px;
+}
+
+.recommendButton:hover {
+    background-color: white;
+    color: #0d6efd;
+    border: 2px solid #0d6efd;
+}
+.recommendCard {
+    width: 100%;
+    margin-bottom: 2rem;
+    margin-top: 2rem;
+}

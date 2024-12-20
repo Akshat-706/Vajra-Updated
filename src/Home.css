@@ -1,0 +1,86 @@
+main {
+    background: white;
+}
+
+.firstRow {
+    padding: 1rem 0 1rem 0;
+    display: block;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    background: url(./LPimages/firstsection.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 650px;
+    min-width: 600px;
+    border-radius: 50px;
+}
+
+.lpr1Heading {
+    font-size: 4rem;
+    padding-top: 6.5rem;
+    padding-left: 2rem;
+}
+.lpr1Heading2 {
+    padding-left: 2rem;
+    font-size: 2rem;
+}
+.lpr1Parra {
+    padding-left: 2rem;
+    font-size: 1.3rem;
+}
+.lpCard {
+    height: 175px;
+}
+.landingCard {
+    height: 200px;
+}
+.secondRow {
+    margin: 1rem 0 1rem 0;
+    display: flex;
+    margin-left: 20%;
+}
+.thirdRowImg {
+    margin: 1rem 0 1rem 0;
+    width: 90%;
+    margin-left: 4rem;
+    border-radius: 50px;
+}
+.fourthRow {
+    margin: 1rem 0 1rem 0;
+    display: flex;
+    width: 100%;
+}
+.img {
+    margin-left: 10rem;
+    height: 150px;
+    width: 250px;
+}
+
+/*5th*/
+.fifthRow {
+    padding: 1rem 0 1rem 0;
+    display: block;
+    margin-left: 3rem;
+    margin-right: 3rem;
+    background: url(./LPimages/sectionthird.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 750px;
+    min-width: 600px;
+    border-radius: 50px;
+    padding-left: 2rem;
+}
+
+.lpr5Heading {
+    font-size: 4rem;
+    padding-top: 5rem;
+    padding-left: 2rem;
+}
+.lpr5Heading2 {
+    padding-left: 2rem;
+    font-size: 2rem;
+}
+.lpr5Parra {
+    padding-left: 2rem;
+    font-size: 1.3rem;
+}

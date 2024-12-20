@@ -1,0 +1,40 @@
+.r1,
+.r2,
+.r3 {
+    display: flex;
+}
+.r4 {
+    padding-left: 22px;
+}
+.dRSubForm {
+    width: 45%;
+    margin: 1rem;
+}
+.dRFormInput {
+    width: 100%;
+    height: 1.5rem;
+    border-radius: 5px;
+}
+.dRForm {
+    background-color: skyblue;
+    height: 80vh;
+    margin: 1rem 15rem;
+    border-radius: 50px;
+}
+.dRHeading {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.dRBtn {
+    padding: 0.5rem 2.5rem;
+    margin-left: 40%;
+    background-color: #0d6efd;
+    color: white;
+    font-size: 900;
+    border-radius: 10px;
+}
+.dRBtn:hover {
+    background-color: white;
+    color: #0d6efd;
+}
